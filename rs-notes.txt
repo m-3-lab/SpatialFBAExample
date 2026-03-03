@@ -1,0 +1,45 @@
+Paper Code Directory: 
+- Notes:
+    - Would be good to document plots, for what details are being extracted (I can... after I understand what how all the models work)
+- 3_1_Models_Media.ipynb
+    - General Notes:
+        - Purpose to check models run?
+        - Added note to all media cells, that they are glucose limited
+        - All Code runs and outputs appear to match
+
+- 3_2_1_Individual.ipynb
+    - Running Code Notes:
+        - Needed to comment out " os.environ['GUROBI_COMETS_HOME'] = '/Library/gurobi952/macos_universal2' "
+            - I have this currently set within my environment/bashrc 
+        - Irrelevant, external monitor loses signal during Comets Sim
+        - All code runs and figures match
+    - General Notes:
+        - What is Monod Style for exchanges style?
+            - 1D exchanges? 
+            - in the Make_params() func 
+
+        - added documentation
+            - Added note on geometry
+                - Sizes for spatial components
+            - Added note to LOG_RATE
+                - Initially thought it was log-scaling rates/fluxes
+            - resetting bounds before setting exchanges
+            - un-limit all reactions, except glc
+            - ...set_specific_metabolite(...) = set initial
+            - ...set_specific_refresh(...) = inflow/amount added per cycle
+            
+- 3_2_2_CoCulture.ipynb
+    - Running Code Notes: 
+        - Code all looks good/runs fine
+
+    - General Notes:
+        - What is comets_bifido.open_exhcanges()
+        - is this all still 0-dimenstional/only temporal?
+
+- 3_2_3_Butyrate.ipynb
+    - Running Code Notes: 
+        - Code all looks good/runs fine
+
+
+    - General Notes:
+        - 
