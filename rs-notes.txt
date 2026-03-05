@@ -8,15 +8,7 @@ Paper Code Directory:
         - All Code runs and outputs appear to match
 
 - 3_2_1_Individual.ipynb
-    - Running Code Notes:
-        - Needed to comment out " os.environ['GUROBI_COMETS_HOME'] = '/Library/gurobi952/macos_universal2' "
-            - I have this currently set within my environment/bashrc 
-        - Irrelevant, external monitor loses signal during Comets Sim
-        - All code runs and figures match
-    - General Notes:
-        - What is Monod Style for exchanges style?
-            - 1D exchanges? 
-            - in the Make_params() func 
+
 
         - added documentation
             - Added note on geometry
