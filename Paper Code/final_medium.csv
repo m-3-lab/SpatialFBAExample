@@ -1,0 +1,31 @@
+Exchange_Reaction,Metabolite_ID,Metabolite_Name,Uptake_Bound,Notes
+EX_o2(e),o2[e],O2,0,Anaerobic
+EX_h2o(e),h2o[e],Water,1000,Base
+EX_pi(e),pi[e],hydrogenphosphate,1000,Base
+EX_fe2(e),fe2[e],Fe2+,1000,Base
+EX_fe3(e),fe3[e],Fe3+,1000,Base
+EX_zn2(e),zn2[e],Zinc,1000,Base
+EX_so4(e),so4[e],sulfate,1000,Base
+EX_cu2(e),cu2[e],Cu2+,1000,Base
+EX_k(e),k[e],potassium,1000,Base
+EX_mg2(e),mg2[e],magnesium,1000,Base
+EX_mn2(e),mn2[e],Mn2+,1000,Base
+EX_cd2(e),cd2[e],Cadmium,1000,Base
+EX_cl(e),cl[e],Chloride,1000,Base
+EX_ca2(e),ca2[e],calcium(2+),1000,Base
+EX_cobalt2(e),cobalt2[e],Co2+,1000,Base
+EX_glc_D(e),glc_D[e],D-glucose,10,Base
+EX_nh4(e),nh4[e],Ammonium,20,Base
+EX_ribflv(e),ribflv[e],Riboflavin,1000,B. infantis
+EX_pnto_R(e),pnto_R[e],(R)-Pantothenate,1000,B. infantis
+EX_nac(e),nac[e],Nicotinate,1000,B. infantis
+EX_his_L(e),his_L[e],L-histidine,1000,B. infantis
+EX_asn_L(e),asn_L[e],L-asparagine,1000,B. infantis
+EX_glycys(e),glycys[e],Gly-Cys,1000,B. infantis
+EX_lac_L(e),lac_L[e],L-lactate,10,Secreted by B. infantis
+EX_lys_L(e),lys_L[e],L-lysine,1000,A. hallii
+EX_ala_L(e),ala_L[e],L-alanine,1000,A. hallii
+EX_met_L(e),met_L[e],L-methionine,1000,A. hallii
+EX_leu_L(e),leu_L[e],L-leucine,1000,A. hallii
+EX_hxan(e),hxan[e],Hypoxanthine,1000,A. hallii
+EX_glyasn(e),glyasn[e],Glycyl-L-asparagine,1000,A. hallii
