@@ -1,5 +1,4 @@
 Exchange_Reaction,Metabolite_ID,Metabolite_Name,Uptake_Bound,Notes
-EX_o2(e),o2[e],O2,0,Anaerobic
 EX_h2o(e),h2o[e],Water,1000,Base
 EX_pi(e),pi[e],hydrogenphosphate,1000,Base
 EX_fe2(e),fe2[e],Fe2+,1000,Base
@@ -28,4 +27,4 @@ EX_ala_L(e),ala_L[e],L-alanine,1000,A. hallii
 EX_met_L(e),met_L[e],L-methionine,1000,A. hallii
 EX_leu_L(e),leu_L[e],L-leucine,1000,A. hallii
 EX_hxan(e),hxan[e],Hypoxanthine,1000,A. hallii
-EX_glyasn(e),glyasn[e],Glycyl-L-asparagine,1000,A. hallii
+EX_glyglu(e),glyglu[e],Glycyl-L-glutamate,1000,A. hallii
